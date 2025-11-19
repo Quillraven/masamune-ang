@@ -1,6 +1,6 @@
 # Masamune Angular UI
 
-![Angular](https://img.shields.io/badge/Angular-19.2.9-purple?logo=angular)
+![Angular](https://img.shields.io/badge/Angular-20.3.12-purple?logo=angular)
 
 This UI is for my 2D Retro RPG game called [Masamune](https://github.com/Quillraven/Masamune).
 
